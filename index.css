@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background: #1B244A;    
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;   
+    max-width: 400px;
+    margin: auto;
+    margin-top: 200px;
+    border: 3px solid rgba(255, 166, 0, 0.562);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    background: linear-gradient(45deg, rgba(255, 166, 0, 0.562), rgba(226, 45, 0, 0.562));
+    z-index: 1; 
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+
+h2 {
+    background: black;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    padding: 20px 7px;
+    margin-bottom: 15px;
+    font-size: 50px;
+}
+
+button {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    background: transparent;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.366);
+    border-radius: 5px;
+    padding: 8px 7px;
+    margin:2px;
+    cursor:pointer;
+}
+
+button:hover {
+    background: white;
+    color: black;
+}
+
+#reset {
+    width: 112px;
+    margin-top: 10px;
+    background: linear-gradient(45deg, #0f000032, #f06595);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#reset:hover {
+    background: red;
+    color: white;
+}
