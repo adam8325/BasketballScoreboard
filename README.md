@@ -16,4 +16,5 @@ This project is a simple basketball scoreboard web application. It allows users 
 
 ## Go Live
 - Go ahead ahead and check the scoreboard <a href="https://bballboard.netlify.app/" target="_blank">here</a>
+
 ![image](https://github.com/user-attachments/assets/2cfca4c6-f3f0-4e88-902b-8eda7f0fb168)
